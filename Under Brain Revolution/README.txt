@@ -1,3 +1,5 @@
+Please note, this is a game I made 5-6 years ago during High School. I've learned so much since I wrote this, so please excuse some of the wonkiness. Also, the original source code has been lost, so this is the compiled version, and may have a few unusual issues after being copied around. For example, saves after finishing a level are broken, but the included save file has all levels unlocked.
+
 The game folder must be placed in the base of the C: drive for it to work properly.
 This would be C:/Under Brain Revolution; it needs to be here to run at all.
 In addition, to properly play the game, the resolution of your monitor should exceed 1000x850, the size of the game window.
@@ -13,4 +15,4 @@ After you beat the level or die, the game will shut down.
 If you wish to continue playing, simply run the .jar again.
 You can adjust some graphical and performance settings if you are noticing lag in the launcher.
 If you have any questions, comments, suggestions, or need any help getting it to work, you can email me at IanDonn95@gmail.com or simply ask me in person.
-Finally, if you manage to beat the final level (even on I Suck At This Game Difficulty), please tell me. I'd like to know if it is within human capabilities to beat it.
+Finally, if you manage to beat the final level (even on "I Suck At This Game" Difficulty), please tell me. I'd like to know if it is within human capabilities to beat it.
